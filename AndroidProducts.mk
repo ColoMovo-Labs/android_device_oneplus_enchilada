@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/custom_enchilada.mk
+    $(LOCAL_DIR)/lineage_enchilada.mk
