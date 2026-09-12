@@ -30,6 +30,3 @@ PRODUCT_COPY_FILES += \
     device/oneplus/enchilada/fonts/prebuilt/Xiaolai-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Xiaolai-Regular.ttf \
     device/oneplus/enchilada/fonts/prebuilt/NotoSerifSC.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/NotoSerifSC.ttf
 
-# OEM font customization configuration
-PRODUCT_COPY_FILES += \
-    device/oneplus/enchilada/fonts/fonts_customization.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml
