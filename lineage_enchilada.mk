@@ -22,6 +22,15 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit from enchilada device
 $(call inherit-product, device/oneplus/enchilada/device.mk)
 
+# AviumUI Maintainer & Configuration
+AVIUM_MAINTAINER := LoMo\ 洛陌
+PRODUCT_PROPERTY_OVERRIDES += ro.avium.maintainer=LoMo\ 洛陌
+PRODUCT_PRODUCT_PROPERTIES += ro.avium.maintainer=LoMo\ 洛陌
+
+# Official AviumUI GMS Integration
+WITH_GMS := true
+TARGET_DOES_NOT_SUPPORT_GOOGLE_BATTERY := true
+
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
