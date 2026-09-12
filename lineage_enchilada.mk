@@ -23,9 +23,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/oneplus/enchilada/device.mk)
 
 # AviumUI Maintainer & Configuration
-AVIUM_MAINTAINER := LoMo\ 洛陌
-PRODUCT_PROPERTY_OVERRIDES += ro.avium.maintainer=LoMo\ 洛陌
-PRODUCT_PRODUCT_PROPERTIES += ro.avium.maintainer=LoMo\ 洛陌
+AVIUM_MAINTAINER := LoMo
 
 # Official AviumUI GMS Integration
 WITH_GMS := true
