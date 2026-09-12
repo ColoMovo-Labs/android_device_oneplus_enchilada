@@ -20,7 +20,13 @@ PRODUCT_PACKAGES += \
     FontLxgwWenkaiOverlay \
     FontLxgwNeoXiHeiOverlay \
     FontXiaolaiOverlay \
-    FontNotoSerifScOverlay
+    FontNotoSerifScOverlay \
+    FontZcoolQingKeHuangYouOverlay \
+    FontZcoolXiaoWeiOverlay \
+    FontZcoolKuaiLeOverlay \
+    FontMaShanZhengOverlay \
+    FontLongCangOverlay \
+    FontZhiMangXingOverlay
 
 # Prebuilt font binaries
 PRODUCT_COPY_FILES += \
@@ -28,5 +34,12 @@ PRODUCT_COPY_FILES += \
     device/oneplus/enchilada/fonts/prebuilt/LXGWWenKaiLite-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/LXGWWenKaiLite-Regular.ttf \
     device/oneplus/enchilada/fonts/prebuilt/LXGWNeoXiHei.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/LXGWNeoXiHei.ttf \
     device/oneplus/enchilada/fonts/prebuilt/Xiaolai-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Xiaolai-Regular.ttf \
-    device/oneplus/enchilada/fonts/prebuilt/NotoSerifSC.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/NotoSerifSC.ttf
+    device/oneplus/enchilada/fonts/prebuilt/NotoSerifSC.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/NotoSerifSC.ttf \
+    device/oneplus/enchilada/fonts/prebuilt/ZCOOLQingKeHuangYou-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/ZCOOLQingKeHuangYou-Regular.ttf \
+    device/oneplus/enchilada/fonts/prebuilt/ZCOOLXiaoWei-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/ZCOOLXiaoWei-Regular.ttf \
+    device/oneplus/enchilada/fonts/prebuilt/ZCOOLKuaiLe-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/ZCOOLKuaiLe-Regular.ttf \
+    device/oneplus/enchilada/fonts/prebuilt/MaShanZheng-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/MaShanZheng-Regular.ttf \
+    device/oneplus/enchilada/fonts/prebuilt/LongCang-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/LongCang-Regular.ttf \
+    device/oneplus/enchilada/fonts/prebuilt/ZhiMangXing-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/ZhiMangXing-Regular.ttf
+
 

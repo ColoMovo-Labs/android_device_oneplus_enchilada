@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="config_bodyFontFamily" translatable="false">zhimangxing</string>
+    <string name="config_bodyFontFamilyMedium" translatable="false">zhimangxing-medium</string>
+    <string name="config_headlineFontFamily" translatable="false">zhimangxing</string>
+    <string name="config_headlineFontFamilyMedium" translatable="false">zhimangxing-medium</string>
+</resources>

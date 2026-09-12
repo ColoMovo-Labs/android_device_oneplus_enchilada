@@ -38,4 +38,46 @@
     </family>
     <alias name="noto-serif-sc-medium" to="noto-serif-sc" weight="500" />
     <alias name="noto-serif-sc-bold" to="noto-serif-sc" weight="700" />
+
+    <!-- 站酷庆科黄油体 (ZCOOL QingKe HuangYou) - 醒目圆角标题体 -->
+    <family customizationType="new-named-family" name="zcool-qingke-huangyou">
+        <font weight="400" style="normal">ZCOOLQingKeHuangYou-Regular.ttf</font>
+    </family>
+    <alias name="zcool-qingke-huangyou-medium" to="zcool-qingke-huangyou" weight="500" />
+    <alias name="zcool-qingke-huangyou-bold" to="zcool-qingke-huangyou" weight="700" />
+
+    <!-- 站酷小薇体 (ZCOOL XiaoWei) - 纤细秀丽清雅体 -->
+    <family customizationType="new-named-family" name="zcool-xiaowei">
+        <font weight="400" style="normal">ZCOOLXiaoWei-Regular.ttf</font>
+    </family>
+    <alias name="zcool-xiaowei-medium" to="zcool-xiaowei" weight="500" />
+    <alias name="zcool-xiaowei-bold" to="zcool-xiaowei" weight="700" />
+
+    <!-- 站酷快乐体 (ZCOOL KuaiLe) - 活泼明快趣味体 -->
+    <family customizationType="new-named-family" name="zcool-kuaile">
+        <font weight="400" style="normal">ZCOOLKuaiLe-Regular.ttf</font>
+    </family>
+    <alias name="zcool-kuaile-medium" to="zcool-kuaile" weight="500" />
+    <alias name="zcool-kuaile-bold" to="zcool-kuaile" weight="700" />
+
+    <!-- 马善政毛笔体 (Ma Shan Zheng) - 奔放写意毛笔体 -->
+    <family customizationType="new-named-family" name="mashanzheng">
+        <font weight="400" style="normal">MaShanZheng-Regular.ttf</font>
+    </family>
+    <alias name="mashanzheng-medium" to="mashanzheng" weight="500" />
+    <alias name="mashanzheng-bold" to="mashanzheng" weight="700" />
+
+    <!-- 龙藏体 (Long Cang) - 潇洒连笔行书 -->
+    <family customizationType="new-named-family" name="longcang">
+        <font weight="400" style="normal">LongCang-Regular.ttf</font>
+    </family>
+    <alias name="longcang-medium" to="longcang" weight="500" />
+    <alias name="longcang-bold" to="longcang" weight="700" />
+
+    <!-- 志莽行书 (Zhi Mang Xing) - 狂放连笔草书行书 -->
+    <family customizationType="new-named-family" name="zhimangxing">
+        <font weight="400" style="normal">ZhiMangXing-Regular.ttf</font>
+    </family>
+    <alias name="zhimangxing-medium" to="zhimangxing" weight="500" />
+    <alias name="zhimangxing-bold" to="zhimangxing" weight="700" />
 </fonts-modification>
