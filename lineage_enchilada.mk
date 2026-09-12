@@ -22,8 +22,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit from enchilada device
 $(call inherit-product, device/oneplus/enchilada/device.mk)
 
-# AviumUI Maintainer & Configuration
-AVIUM_MAINTAINER := LoMo
+# AviumUI Configuration
 TARGET_FORCE_ENABLE_BLUR := true
 
 # Chinese Font & Wallpaper Customization Packages
