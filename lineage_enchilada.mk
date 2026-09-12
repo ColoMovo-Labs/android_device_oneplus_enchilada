@@ -24,6 +24,7 @@ $(call inherit-product, device/oneplus/enchilada/device.mk)
 
 # AviumUI Maintainer & Configuration
 AVIUM_MAINTAINER := LoMo
+TARGET_FORCE_ENABLE_BLUR := true
 
 # Official AviumUI GMS Integration
 WITH_GMS := true
