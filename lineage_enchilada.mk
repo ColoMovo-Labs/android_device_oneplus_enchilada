@@ -26,6 +26,10 @@ $(call inherit-product, device/oneplus/enchilada/device.mk)
 AVIUM_MAINTAINER := LoMo
 TARGET_FORCE_ENABLE_BLUR := true
 
+# Chinese Font & Wallpaper Customization Packages
+$(call inherit-product, device/oneplus/enchilada/fonts/fonts.mk)
+$(call inherit-product, device/oneplus/enchilada/wallpapers/wallpapers.mk)
+
 # Official AviumUI GMS Integration
 WITH_GMS := true
 TARGET_DOES_NOT_SUPPORT_GOOGLE_BATTERY := true

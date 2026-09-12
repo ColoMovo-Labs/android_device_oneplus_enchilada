@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2026 The AviumUI Project
+    SPDX-License-Identifier: Apache-2.0
+-->
+<fonts-modification version="1">
+    <!-- 得意黑 (Smiley Sans) - 现代几何黑体 -->
+    <family customizationType="new-named-family" name="smiley-sans">
+        <font weight="400" style="normal">SmileySans-Oblique.ttf</font>
+    </family>
+    <alias name="smiley-sans-medium" to="smiley-sans" weight="500" />
+    <alias name="smiley-sans-bold" to="smiley-sans" weight="700" />
+
+    <!-- 霞鹜文楷 (LXGW WenKai) - 文艺楷体 -->
+    <family customizationType="new-named-family" name="lxgw-wenkai">
+        <font weight="400" style="normal">LXGWWenKaiLite-Regular.ttf</font>
+    </family>
+    <alias name="lxgw-wenkai-medium" to="lxgw-wenkai" weight="500" />
+    <alias name="lxgw-wenkai-bold" to="lxgw-wenkai" weight="700" />
+
+    <!-- 霞鹜新晰黑 (LXGW Neo XiHei) - 极简 UI 黑体 -->
+    <family customizationType="new-named-family" name="lxgw-neoxihei">
+        <font weight="400" style="normal">LXGWNeoXiHei.ttf</font>
+    </family>
+    <alias name="lxgw-neoxihei-medium" to="lxgw-neoxihei" weight="500" />
+    <alias name="lxgw-neoxihei-bold" to="lxgw-neoxihei" weight="700" />
+
+    <!-- 小赖圆体 (Xiaolai Rounded) - 温暖圆体 -->
+    <family customizationType="new-named-family" name="xiaolai-rounded">
+        <font weight="400" style="normal">Xiaolai-Regular.ttf</font>
+    </family>
+    <alias name="xiaolai-rounded-medium" to="xiaolai-rounded" weight="500" />
+    <alias name="xiaolai-rounded-bold" to="xiaolai-rounded" weight="700" />
+
+    <!-- 思源宋体 (Noto Serif SC) - 典雅宋体/明朝体 -->
+    <family customizationType="new-named-family" name="noto-serif-sc">
+        <font weight="400" style="normal">NotoSerifSC.ttf</font>
+    </family>
+    <alias name="noto-serif-sc-medium" to="noto-serif-sc" weight="500" />
+    <alias name="noto-serif-sc-bold" to="noto-serif-sc" weight="700" />
+</fonts-modification>
