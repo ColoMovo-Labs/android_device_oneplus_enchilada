@@ -10,9 +10,9 @@ Every image has been individually audited against primary upstream release pages
 
 | Filename | Category | Title / Subject | Author / Contributor | Original License | Cropped / Modified | Derivative License | Required Attribution Text |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `wallpaper_01.webp` | **Kemono** | 赛博白狼卫士 (Cyberpunk White Wolf Guardian) | ColoMovo-Labs / Antigravity Design | CC0 1.0 Universal | Yes (1440x3120 crop, WebP) | CC0 1.0 Universal | AviumUI Design (CC0 Public Domain Dedication) |
-| `wallpaper_02.webp` | **Kemono** | 灯火狐仙 (Fox Spirit under Starry Lanterns) | ColoMovo-Labs / Antigravity Design | CC0 1.0 Universal | Yes (1440x3120 crop, WebP) | CC0 1.0 Universal | AviumUI Design (CC0 Public Domain Dedication) |
-| `wallpaper_03.webp` | **Kemono** | 雪豹巡山员 (Snow Leopard Alpine Ranger) | ColoMovo-Labs / Antigravity Design | CC0 1.0 Universal | Yes (1440x3120 crop, WebP) | CC0 1.0 Universal | AviumUI Design (CC0 Public Domain Dedication) |
+| `wallpaper_01.webp` | **Kemono** | 赛博白狼卫士 (Cyberpunk White Wolf Guardian) | ColoMovo-Labs / Antigravity Design | project-generated artwork, dedicated to CC0 1.0 to the extent rights exist | Yes (1440x3120 crop, WebP) | Dedicated to CC0 1.0 to the extent rights exist | AviumUI Design (Dedicated to CC0 1.0 to the extent rights exist) |
+| `wallpaper_02.webp` | **Kemono** | 灯火狐仙 (Fox Spirit under Starry Lanterns) | ColoMovo-Labs / Antigravity Design | project-generated artwork, dedicated to CC0 1.0 to the extent rights exist | Yes (1440x3120 crop, WebP) | Dedicated to CC0 1.0 to the extent rights exist | AviumUI Design (Dedicated to CC0 1.0 to the extent rights exist) |
+| `wallpaper_03.webp` | **Kemono** | 雪豹巡山员 (Snow Leopard Alpine Ranger) | ColoMovo-Labs / Antigravity Design | project-generated artwork, dedicated to CC0 1.0 to the extent rights exist | Yes (1440x3120 crop, WebP) | Dedicated to CC0 1.0 to the extent rights exist | AviumUI Design (Dedicated to CC0 1.0 to the extent rights exist) |
 | `wallpaper_04.webp` | **Kemono** | 赛博松鼠飞跃天际 (Kiki Krita 5.3 Splash) | Tyson Tan (for Krita Foundation) | CC BY-SA 4.0 | Yes (1440x3120 crop, WebP) | CC BY-SA 4.0 | Kiki the Cyber Squirrel by Tyson Tan (krita.org), CC BY-SA 4.0 |
 | `wallpaper_05.webp` | **Kemono** | 赛博机甲觉醒 (Kiki Krita 5.2 Splash) | Tyson Tan (for Krita Foundation) | CC BY-SA 4.0 | Yes (1440x3120 crop, WebP) | CC BY-SA 4.0 | Kiki the Cyber Squirrel by Tyson Tan (krita.org), CC BY-SA 4.0 |
 | `wallpaper_06.webp` | **Kemono** | 梦境猫头鹰公主 (Owl Princess) | David Revoy | CC BY-SA 4.0 | Yes (1440x3120 crop, WebP) | CC BY-SA 4.0 | Artwork by David Revoy (peppercarrot.com), CC BY-SA 4.0 |
@@ -28,9 +28,9 @@ Every image has been individually audited against primary upstream release pages
 | `wallpaper_16.webp` | **Anime** | 春之圣域云海 (Spring Mountain Descent) | Blender Institute / Andy Goralczyk | CC BY-SA 4.0 | Yes (1440x3120 crop, WebP) | CC BY-SA 4.0 | Blender Open Movie 'Spring' (blender.org), CC BY-SA 4.0 |
 | `wallpaper_17.webp` | **Anime** | 迷雾竹海仙境 (Phanda Misty Bamboo) | David Revoy | CC BY 4.0 | Yes (1440x3120 crop, WebP) | CC BY 4.0 | Artwork by David Revoy (peppercarrot.com), CC BY 4.0 |
 | `wallpaper_18.webp` | **Anime** | 星光魔药工坊 (Pepper & Carrot Ink Run) | David Revoy | CC BY 4.0 | Yes (1440x3120 crop, WebP) | CC BY 4.0 | Artwork by David Revoy (peppercarrot.com), CC BY 4.0 |
-| `wallpaper_19.webp` | **Landscape** | 韦伯船底座星云宇宙悬崖 (JWST Cosmic Cliffs) | NASA, ESA, CSA, STScI | Public Domain (U.S. Gov work) | Yes (1440x3120 crop, WebP) | Public Domain / Attribution Required | Image credit: NASA, ESA, CSA, and STScI |
-| `wallpaper_20.webp` | **Landscape** | 韦伯创生之柱 (JWST Pillars of Creation) | NASA, ESA, CSA, STScI; J. DePasquale, A. Koekemoer, A. Pagan | Public Domain (U.S. Gov work) | Yes (1440x3120 crop, WebP) | Public Domain / Attribution Required | Image credit: NASA, ESA, CSA, STScI; J. DePasquale et al. |
-| `wallpaper_21.webp` | **Landscape** | 韦伯剑鱼座30蜘蛛星云 (JWST Tarantula Nebula) | NASA, ESA, CSA, STScI, Webb ERO Team | Public Domain (U.S. Gov work) | Yes (1440x3120 crop, WebP) | Public Domain / Attribution Required | Image credit: NASA, ESA, CSA, STScI, Webb ERO Production Team |
+| `wallpaper_19.webp` | **Landscape** | 韦伯船底座星云宇宙悬崖 (JWST Cosmic Cliffs) | NASA, ESA, CSA, STScI | STScI Open Use Policy (Mandatory Credit; NASA/ESA/CSA/STScI) | Yes (1440x3120 crop, WebP) | STScI Open Use Policy (Attribution Required) | Image credit: NASA, ESA, CSA, and STScI (STScI-2022-031) |
+| `wallpaper_20.webp` | **Landscape** | 韦伯创生之柱 (JWST Pillars of Creation) | Science: NASA, ESA, CSA, STScI; Processing: J. DePasquale, A. Koekemoer, A. Pagan | STScI Open Use Policy (Mandatory Credit; NASA/ESA/CSA/STScI) | Yes (1440x3120 crop, WebP) | STScI Open Use Policy (Attribution Required) | Image credit: Science: NASA, ESA, CSA, STScI; Image Processing: Joseph DePasquale, Anton M. Koekemoer, Alyssa Pagan (STScI-2022-052) |
+| `wallpaper_21.webp` | **Landscape** | 韦伯剑鱼座30蜘蛛星云 (JWST Tarantula Nebula) | NASA, ESA, CSA, STScI, Webb ERO Team | STScI Open Use Policy (Mandatory Credit; NASA/ESA/CSA/STScI) | Yes (1440x3120 crop, WebP) | STScI Open Use Policy (Attribution Required) | Image credit: NASA, ESA, CSA, STScI, Webb ERO Production Team (STScI-2022-041) |
 | `wallpaper_22.webp` | **Landscape** | 极光与英仙座流星雨 (Aurora and Perseids) | Stephan Sprinz | CC BY 4.0 | Yes (1440x3120 crop, WebP) | CC BY 4.0 | Photo by Stephan Sprinz, CC BY 4.0 |
 | `wallpaper_23.webp` | **Landscape** | 马特洪峰与湖中银河倒影 (Matterhorn Milky Way Stellisee) | Giles Laurent | CC BY-SA 4.0 | Yes (1440x3120 crop, WebP) | CC BY-SA 4.0 | Photo by Giles Laurent, CC BY-SA 4.0 |
 | `wallpaper_24.webp` | **Landscape** | 索苏斯盐沼45号沙丘日出 (Sossusvlei Dune 45) | Giles Laurent | CC BY-SA 4.0 | Yes (1440x3120 crop, WebP) | CC BY-SA 4.0 | Photo by Giles Laurent, CC BY-SA 4.0 |
@@ -48,28 +48,28 @@ Every image has been individually audited against primary upstream release pages
 - **Title**: Cyberpunk White Wolf Guardian
 - **Author**: ColoMovo-Labs / Antigravity Design
 - **Original Source URL**: [ColoMovo-Labs/android_device_oneplus_enchilada](https://github.com/ColoMovo-Labs/android_device_oneplus_enchilada)
-- **Original License**: CC0 1.0 Universal Public Domain Dedication
+- **Original License**: project-generated artwork, dedicated to CC0 1.0 to the extent rights exist
 - **Whether Cropped / Modified**: Yes (AI output rendered at 9:16 aspect ratio, master-cropped and scaled to 1440 × 3120 with Lanczos resampling, WebP quality 88).
-- **Derivative License**: CC0 1.0 Universal
-- **Required Attribution**: Attribution appreciated: "AviumUI Design Team". No restrictive terms.
+- **Derivative License**: Dedicated to CC0 1.0 to the extent rights exist
+- **Required Attribution**: project-generated artwork, dedicated to CC0 1.0 to the extent rights exist. Credit appreciated: "AviumUI Design Team".
 
 #### `wallpaper_02.webp` – 灯火狐仙 (Fox Spirit under Starry Lanterns)
 - **Title**: Fox Spirit under Starry Lanterns
 - **Author**: ColoMovo-Labs / Antigravity Design
 - **Original Source URL**: [ColoMovo-Labs/android_device_oneplus_enchilada](https://github.com/ColoMovo-Labs/android_device_oneplus_enchilada)
-- **Original License**: CC0 1.0 Universal Public Domain Dedication
+- **Original License**: project-generated artwork, dedicated to CC0 1.0 to the extent rights exist
 - **Whether Cropped / Modified**: Yes (master-cropped to 1440 × 3120, WebP encoded).
-- **Derivative License**: CC0 1.0 Universal
-- **Required Attribution**: Attribution appreciated: "AviumUI Design Team".
+- **Derivative License**: Dedicated to CC0 1.0 to the extent rights exist
+- **Required Attribution**: project-generated artwork, dedicated to CC0 1.0 to the extent rights exist. Credit appreciated: "AviumUI Design Team".
 
 #### `wallpaper_03.webp` – 雪豹巡山员 (Snow Leopard Alpine Ranger)
 - **Title**: Snow Leopard Alpine Ranger
 - **Author**: ColoMovo-Labs / Antigravity Design
 - **Original Source URL**: [ColoMovo-Labs/android_device_oneplus_enchilada](https://github.com/ColoMovo-Labs/android_device_oneplus_enchilada)
-- **Original License**: CC0 1.0 Universal Public Domain Dedication
+- **Original License**: project-generated artwork, dedicated to CC0 1.0 to the extent rights exist
 - **Whether Cropped / Modified**: Yes (master-cropped to 1440 × 3120, WebP encoded).
-- **Derivative License**: CC0 1.0 Universal
-- **Required Attribution**: Attribution appreciated: "AviumUI Design Team".
+- **Derivative License**: Dedicated to CC0 1.0 to the extent rights exist
+- **Required Attribution**: project-generated artwork, dedicated to CC0 1.0 to the extent rights exist. Credit appreciated: "AviumUI Design Team".
 
 #### `wallpaper_04.webp` – 赛博松鼠飞跃天际 (Kiki the Cyber Squirrel - Krita 5.3 Splash)
 - **Title**: Kiki the Cyber Squirrel mascot of Krita version 5.3 splash
@@ -216,29 +216,29 @@ Every image has been individually audited against primary upstream release pages
 
 #### `wallpaper_19.webp` – 韦伯船底座星云宇宙悬崖 (JWST Cosmic Cliffs in the Carina Nebula)
 - **Title**: "Cosmic Cliffs" in the Carina Nebula (NIRCam)
-- **Author**: NASA, ESA, CSA, and STScI
+- **Credit**: NASA, ESA, CSA, and STScI
 - **Original Source URL**: [STScI News Release STScI-2022-031](https://webbtelescope.org/contents/media/images/2022/031/01G77PKB8NKR7S8Z6HBXMYATGJ) (Wikimedia: [File:NASA's Webb Reveals Cosmic Cliffs](https://commons.wikimedia.org/wiki/File:NASA%E2%80%99s_Webb_Reveals_Cosmic_Cliffs,_Glittering_Landscape_of_Star_Birth.jpg))
-- **Original License**: Public Domain in the United States (17 U.S.C. § 105), subject to mandatory agency citation requirements.
+- **Original License & Terms of Use**: STScI / JWST Open Use Policy. Joint multi-agency international collaboration by NASA, ESA, and CSA, managed by Space Telescope Science Institute (STScI/AURA). Not classified solely as U.S. Government Public Domain due to ESA/CSA international co-ownership and contractor processing. Freely usable and redistributable for educational, non-commercial, and commercial purposes with mandatory attribution.
 - **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 14575 × 8441 master, WebP encoded).
-- **Derivative License**: Public Domain / Attribution Required
+- **Derivative License**: STScI Open Use Policy (Attribution Required)
 - **Required Attribution**: "Image credit: NASA, ESA, CSA, and STScI (https://webbtelescope.org)."
 
 #### `wallpaper_20.webp` – 韦伯创生之柱 (JWST Pillars of Creation - NIRCam)
 - **Title**: Pillars of Creation (NIRCam Image)
-- **Author**: Science: NASA, ESA, CSA, STScI; Image Processing: Joseph DePasquale (STScI), Anton M. Koekemoer (STScI), Alyssa Pagan (STScI)
+- **Credit**: Science: NASA, ESA, CSA, STScI; Image Processing: Joseph DePasquale (STScI), Anton M. Koekemoer (STScI), Alyssa Pagan (STScI)
 - **Original Source URL**: [STScI News Release STScI-2022-052](https://webbtelescope.org/contents/media/images/2022/052/01GF423GBQSK6ANC89NTFJW8VM) (Wikimedia: [File:Pillars of Creation (NIRCam Image).jpg](https://commons.wikimedia.org/wiki/File:Pillars_of_Creation_(NIRCam_Image).jpg))
-- **Original License**: Public Domain in the United States (17 U.S.C. § 105), subject to mandatory agency citation requirements.
+- **Original License & Terms of Use**: STScI / JWST Open Use Policy. Multi-agency scientific and image processing collaboration between NASA, ESA, CSA, and STScI imaging specialists. Not designated solely as U.S. Government Public Domain. Royalty-free distribution and modification permitted subject to mandatory acknowledgement of science partners and processing scientists.
 - **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 8423 × 14589 master, WebP encoded).
-- **Derivative License**: Public Domain / Attribution Required
-- **Required Attribution**: "Image credit: NASA, ESA, CSA, STScI; J. DePasquale, A. Koekemoer, A. Pagan (https://webbtelescope.org)."
+- **Derivative License**: STScI Open Use Policy (Attribution Required)
+- **Required Attribution**: "Image credit: Science: NASA, ESA, CSA, STScI; Image Processing: Joseph DePasquale (STScI), Anton M. Koekemoer (STScI), Alyssa Pagan (STScI) (https://webbtelescope.org)."
 
 #### `wallpaper_21.webp` – 韦伯剑鱼座30蜘蛛星云 (JWST Tarantula Nebula 30 Doradus)
 - **Title**: Tarantula Nebula by JWST (NIRCam)
-- **Author**: NASA, ESA, CSA, STScI, Webb ERO Production Team
+- **Credit**: NASA, ESA, CSA, STScI, Webb Early Release Observations (ERO) Production Team
 - **Original Source URL**: [STScI News Release STScI-2022-041](https://webbtelescope.org/contents/media/images/2022/041/01GA76MYFN0FMKNRHGCAGGYCVQ) (Wikimedia: [File:Tarantula Nebula by JWST.jpg](https://commons.wikimedia.org/wiki/File:Tarantula_Nebula_by_JWST.jpg))
-- **Original License**: Public Domain in the United States (17 U.S.C. § 105), subject to mandatory agency citation requirements.
+- **Original License & Terms of Use**: STScI / JWST Open Use Policy. Joint international collaboration by NASA, ESA, CSA, STScI, and the Webb ERO Production Team. Not designated solely as U.S. Government Public Domain. Freely redistributable and modifiable with mandatory acknowledgement of the multi-agency and production team credit line.
 - **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 14557 × 8418 master, WebP encoded).
-- **Derivative License**: Public Domain / Attribution Required
+- **Derivative License**: STScI Open Use Policy (Attribution Required)
 - **Required Attribution**: "Image credit: NASA, ESA, CSA, STScI, Webb ERO Production Team (https://webbtelescope.org)."
 
 #### `wallpaper_22.webp` – 极光与英仙座流星雨 (Aurora Borealis and Perseid Meteor)
