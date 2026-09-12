@@ -1,256 +1,296 @@
-# AviumUI 16.2 Curated Wallpapers Attribution & Licensing
+# AviumUI 16.2 Curated Wallpapers Attribution & Legal Licensing Audit
 
-All wallpapers included in the AviumUI OnePlus 6 (`enchilada`) system image adhere strictly to open distribution licenses (Public Domain, CC0, CC BY, or CC BY-SA). No copyrighted game/anime IP, proprietary assets, or unauthorized fanart are included.
+All 27 wallpapers included in the AviumUI OnePlus 6 (`enchilada`) system image adhere strictly to verifiable open distribution licenses. Generic or unverified labels such as "Royalty Free" or unconditional "Public Domain" are strictly excluded. 
 
-Each image has been precisely cropped and mastered to **1440 × 3120** (matching the OnePlus 6 display geometry) with negative space allocated at the top for the Avium Lockscreen Clock and Super Island / Capsule.
+Every image has been individually audited against primary upstream release pages, author statements, and verified Wikimedia Commons / NASA / ESO records. Each image is master-cropped to **1440 × 3120** (19:9 vertical ratio) with the visual subject anchored in the lower half and generous negative space at the top for the Avium Lockscreen Clock and Super Island / Capsule.
 
-## Wallpaper Collection Index
+---
 
-| ID | Category | Title | Artist / Contributor | License | Original Source |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| `wallpaper_01` | **Kemono** | Cyberpunk White Wolf Guardian / 赛博白狼卫士 | Avium Design Team (Original AI | CC0 1.0 Universal (Public Domain) | [Source Link](https://github.com/ColoMovo-Labs/android_device_oneplus_enchilada) |
-| `wallpaper_02` | **Kemono** | Fox Spirit under Starry Lanterns / 灯火狐仙 | Avium Design Team (Original AI | CC0 1.0 Universal (Public Domain) | [Source Link](https://github.com/ColoMovo-Labs/android_device_oneplus_enchilada) |
-| `wallpaper_03` | **Kemono** | Snow Leopard Alpine Ranger / 雪豹巡山员 | Avium Design Team (Original AI | CC0 1.0 Universal (Public Domain) | [Source Link](https://github.com/ColoMovo-Labs/android_device_oneplus_enchilada) |
-| `wallpaper_04` | **Kemono** | Kiki Cyber Sky / 赛博松鼠飞跃天际 | Tyson Tan | CC BY-SA 4.0 | [Source Link](https://commons.wikimedia.org/wiki/File%3AKiki%20the%20Cyber%20Squirrel%20mascot%20of%20Krita%20version%205.3%20splash.png) |
-| `wallpaper_05` | **Kemono** | Kiki Cyber Gear / 赛博机甲觉醒 | Tyson Tan | CC BY-SA 4.0 | [Source Link](https://commons.wikimedia.org/wiki/File%3AKiki%20the%20Cyber%20Squirrel%20mascot%20of%20Krita%20version%205.2%20splash.png) |
-| `wallpaper_06` | **Kemono** | Owl Princess / 梦境猫头鹰公主 | David Revoy | CC BY-SA 4.0 | [Source Link](https://commons.wikimedia.org/wiki/File%3A2012-09-19%20Owl-princess%20by-David-Revoy.jpg) |
-| `wallpaper_07` | **Kemono** | Young Dragon and Bird / 幼龙与灵鸟 | David Revoy | CC BY 4.0 | [Source Link](https://commons.wikimedia.org/wiki/File%3A2020-09-22%20Young-dragon-and-bird%20by-David-Revoy.jpg) |
-| `wallpaper_08` | **Kemono** | Peacock Dragon by the Shore / 孔雀幻龙 | David Revoy | CC BY 4.0 | [Source Link](https://commons.wikimedia.org/wiki/File%3A2013-04-28%20peacock-dragon%20by-David-Revoy.jpg) |
-| `wallpaper_09` | **Kemono** | Colonel Rabbit Winter Scout / 兔上校冬日巡哨 | David Revoy | CC BY 4.0 | [Source Link](https://commons.wikimedia.org/wiki/File%3A2021-12-25%20Colonel-Rabbit%20by-David-Revoy.jpg) |
-| `wallpaper_10` | **Anime** | Lofi Cyberpunk Night / 赛博居室微光夜景 | David Revoy | CC BY 4.0 | [Source Link](https://commons.wikimedia.org/wiki/File%3A2021-09-29%20Lofi%20Cyberpunk%20by%20David-Revoy.jpg) |
-| `wallpaper_11` | **Anime** | Floating Islands Twilight / 浮空秘岛薄暮 | David Revoy | CC BY 4.0 | [Source Link](https://commons.wikimedia.org/wiki/File%3A2007-01-30%20Fantasy-Landscape%20by-David-Revoy.jpg) |
-| `wallpaper_12` | **Anime** | Tidal Island at Low Tide / 退潮幻岛 | David Revoy | CC BY 4.0 | [Source Link](https://commons.wikimedia.org/wiki/File%3A2021-02-15%20An-islands-you-can-visit-at-low-tide%20by-David-Revoy.jpg) |
-| `wallpaper_13` | **Anime** | Sintel Dragon Mountain Dawn / 破晓龙山 | David Revoy / Blender Foundati | CC BY 4.0 | [Source Link](https://commons.wikimedia.org/wiki/File%3A2020-10-01%20Sintel-10-years-Bday%20by-David-Revoy.jpg) |
-| `wallpaper_14` | **Anime** | Kiki Cyber City Panorama / 赛博穹顶都市 | Tyson Tan | CC BY-SA 4.0 | [Source Link](https://commons.wikimedia.org/wiki/File%3AKiki%20the%20Cyber%20Squirrel%20mascot%20of%20Krita%20version%202.9%20splash%20final.webp) |
-| `wallpaper_15` | **Anime** | Kiki Cosmic Voyage / 星航空间站观测窗 | Tyson Tan | CC BY-SA 4.0 | [Source Link](https://commons.wikimedia.org/wiki/File%3AKiki%20the%20Cyber%20Squirrel%20mascot%20of%20Krita%20version%205.0%20splash.png) |
-| `wallpaper_16` | **Anime** | Spring Mountain Descent / 春之圣域云海 | Andy Goralczyk / Blender Found | CC BY-SA 4.0 | [Source Link](https://commons.wikimedia.org/wiki/File%3ASpringOpenMovie-desend.jpg) |
-| `wallpaper_17` | **Anime** | Phanda Misty Forest / 迷雾竹海仙境 | David Revoy | CC BY 4.0 | [Source Link](https://commons.wikimedia.org/wiki/File%3A2016-06-08%20concept-art%20e17%20Phanda%20livestreaming%20by-David-Revoy.jpg) |
-| `wallpaper_18` | **Anime** | Pepper & Carrot Starlight Laboratory / 星光魔药工坊 | David Revoy | CC BY 4.0 | [Source Link](https://commons.wikimedia.org/wiki/File%3ADavid%20Revoy%20-%20Pepper%26Carrot%20-%20October%20Ink%20Artworks%202017%20%28week%202%29%20-%20Run.jpg) |
-| `wallpaper_19` | **Landscape** | JWST Cosmic Cliffs in Carina Nebula / 韦伯船底座星云宇宙悬崖 | NASA, ESA, CSA, and STScI | Public domain | [Source Link](https://commons.wikimedia.org/wiki/File%3ANASA%E2%80%99s%20Webb%20Reveals%20Cosmic%20Cliffs%2C%20Glittering%20Landscape%20of%20Star%20Birth.jpg) |
-| `wallpaper_20` | **Landscape** | JWST Pillars of Creation / 韦伯创生之柱 | NASA, ESA, CSA, and STScI | Public domain | [Source Link](https://commons.wikimedia.org/wiki/File%3APillars%20of%20Creation%20%28NIRCam%20Image%29.jpg) |
-| `wallpaper_21` | **Landscape** | JWST Tarantula Nebula 30 Doradus / 剑鱼座30蜘蛛星云 | NASA, ESA, CSA, STScI | Public domain | [Source Link](https://commons.wikimedia.org/wiki/File%3ATarantula%20Nebula%20by%20JWST.jpg) |
-| `wallpaper_22` | **Landscape** | Aurora Borealis and Perseid Meteor / 极光与英仙座流星雨 | Stephan Sprinz | CC BY 4.0 | [Source Link](https://commons.wikimedia.org/wiki/File%3AAurora%20and%20perseids.jpg) |
-| `wallpaper_23` | **Landscape** | Matterhorn Sunset Glow / 马特洪峰夕照金顶 | Unsplash / Wikimedia Commons c | CC0 1.0 Universal | [Source Link](https://commons.wikimedia.org/wiki/File%3AMatterhorn%20sunset%202016%20%28Unsplash%29.jpg) |
-| `wallpaper_24` | **Landscape** | Sossusvlei Dune 45 Sunrise / 索苏斯盐沼红沙漠沙丘 | Giles Laurent | CC BY-SA 4.0 | [Source Link](https://commons.wikimedia.org/wiki/File%3A006%20Dune%2045%20in%20Sossusvlei%20at%20sunrise%20Photo%20by%20Giles%20Laurent.jpg) |
-| `wallpaper_25` | **Landscape** | Tekapo Milky Way over Good Shepherd / 蒂卡波湖好牧羊人教堂银河 | ESO / B. Tafreshi | CC BY 4.0 | [Source Link](https://commons.wikimedia.org/wiki/File%3AChurch%20of%20the%20Good%20Shepherd%20on%20the%20shores%20of%20Lake%20Tekapo%20%28ann19065a%29.jpg) |
-| `wallpaper_26` | **Landscape** | Tokyo Tower Blue Hour Skyline / 东京塔蓝调时刻天际线 | Wikimedia Commons Contributor | CC BY 4.0 | [Source Link](https://commons.wikimedia.org/wiki/File%3ATokyo%20Tower%2C%20Minato%20City.jpg) |
-| `wallpaper_27` | **Landscape** | Bixby Creek Bridge Pacific Sunset / 加州大苏尔比克斯比大桥日落 | Wikimedia Commons Contributor | CC BY 3.0 | [Source Link](https://commons.wikimedia.org/wiki/File%3ASunset%20At%20The%20Bixby%20%2844143484%29.jpeg) |
+## 1. Complete Licensing & Attribution Table
 
-## Detailed Artwork Notes & Provenance
+| Filename | Category | Title / Subject | Author / Contributor | Original License | Cropped / Modified | Derivative License | Required Attribution Text |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| `wallpaper_01.webp` | **Kemono** | 赛博白狼卫士 (Cyberpunk White Wolf Guardian) | ColoMovo-Labs / Antigravity Design | CC0 1.0 Universal | Yes (1440x3120 crop, WebP) | CC0 1.0 Universal | AviumUI Design (CC0 Public Domain Dedication) |
+| `wallpaper_02.webp` | **Kemono** | 灯火狐仙 (Fox Spirit under Starry Lanterns) | ColoMovo-Labs / Antigravity Design | CC0 1.0 Universal | Yes (1440x3120 crop, WebP) | CC0 1.0 Universal | AviumUI Design (CC0 Public Domain Dedication) |
+| `wallpaper_03.webp` | **Kemono** | 雪豹巡山员 (Snow Leopard Alpine Ranger) | ColoMovo-Labs / Antigravity Design | CC0 1.0 Universal | Yes (1440x3120 crop, WebP) | CC0 1.0 Universal | AviumUI Design (CC0 Public Domain Dedication) |
+| `wallpaper_04.webp` | **Kemono** | 赛博松鼠飞跃天际 (Kiki Krita 5.3 Splash) | Tyson Tan (for Krita Foundation) | CC BY-SA 4.0 | Yes (1440x3120 crop, WebP) | CC BY-SA 4.0 | Kiki the Cyber Squirrel by Tyson Tan (krita.org), CC BY-SA 4.0 |
+| `wallpaper_05.webp` | **Kemono** | 赛博机甲觉醒 (Kiki Krita 5.2 Splash) | Tyson Tan (for Krita Foundation) | CC BY-SA 4.0 | Yes (1440x3120 crop, WebP) | CC BY-SA 4.0 | Kiki the Cyber Squirrel by Tyson Tan (krita.org), CC BY-SA 4.0 |
+| `wallpaper_06.webp` | **Kemono** | 梦境猫头鹰公主 (Owl Princess) | David Revoy | CC BY-SA 4.0 | Yes (1440x3120 crop, WebP) | CC BY-SA 4.0 | Artwork by David Revoy (peppercarrot.com), CC BY-SA 4.0 |
+| `wallpaper_07.webp` | **Kemono** | 幼龙与灵鸟 (Young Dragon and Bird) | David Revoy | CC BY 4.0 | Yes (1440x3120 crop, WebP) | CC BY 4.0 | Artwork by David Revoy (peppercarrot.com), CC BY 4.0 |
+| `wallpaper_08.webp` | **Kemono** | 孔雀幻龙 (Peacock Dragon) | David Revoy | CC BY 4.0 | Yes (1440x3120 crop, WebP) | CC BY 4.0 | Artwork by David Revoy (peppercarrot.com), CC BY 4.0 |
+| `wallpaper_09.webp` | **Kemono** | 兔上校冬日巡哨 (Colonel Rabbit) | David Revoy | CC BY 4.0 | Yes (1440x3120 crop, WebP) | CC BY 4.0 | Artwork by David Revoy (peppercarrot.com), CC BY 4.0 |
+| `wallpaper_10.webp` | **Anime** | 赛博居室微光夜景 (Lofi Cyberpunk Night) | David Revoy | CC BY 4.0 | Yes (1440x3120 crop, WebP) | CC BY 4.0 | Artwork by David Revoy (peppercarrot.com), CC BY 4.0 |
+| `wallpaper_11.webp` | **Anime** | 浮空秘岛薄暮 (Fantasy Floating Islands) | David Revoy | CC BY 4.0 | Yes (1440x3120 crop, WebP) | CC BY 4.0 | Artwork by David Revoy (peppercarrot.com), CC BY 4.0 |
+| `wallpaper_12.webp` | **Anime** | 退潮幻岛 (Tidal Island at Low Tide) | David Revoy | CC BY 4.0 | Yes (1440x3120 crop, WebP) | CC BY 4.0 | Artwork by David Revoy (peppercarrot.com), CC BY 4.0 |
+| `wallpaper_13.webp` | **Anime** | 破晓龙山 (Sintel Dragon Mountain Dawn) | David Revoy / Blender Foundation | CC BY 4.0 | Yes (1440x3120 crop, WebP) | CC BY 4.0 | Artwork by David Revoy / Blender Foundation, CC BY 4.0 |
+| `wallpaper_14.webp` | **Anime** | 赛博穹顶都市 (Kiki Krita 2.9 Panorama) | Tyson Tan (for Krita Foundation) | CC BY-SA 4.0 | Yes (1440x3120 crop, WebP) | CC BY-SA 4.0 | Kiki the Cyber Squirrel by Tyson Tan (krita.org), CC BY-SA 4.0 |
+| `wallpaper_15.webp` | **Anime** | 星航空间站观测窗 (Kiki Krita 5.0 Cosmic) | Tyson Tan (for Krita Foundation) | CC BY-SA 4.0 | Yes (1440x3120 crop, WebP) | CC BY-SA 4.0 | Kiki the Cyber Squirrel by Tyson Tan (krita.org), CC BY-SA 4.0 |
+| `wallpaper_16.webp` | **Anime** | 春之圣域云海 (Spring Mountain Descent) | Blender Institute / Andy Goralczyk | CC BY-SA 4.0 | Yes (1440x3120 crop, WebP) | CC BY-SA 4.0 | Blender Open Movie 'Spring' (blender.org), CC BY-SA 4.0 |
+| `wallpaper_17.webp` | **Anime** | 迷雾竹海仙境 (Phanda Misty Bamboo) | David Revoy | CC BY 4.0 | Yes (1440x3120 crop, WebP) | CC BY 4.0 | Artwork by David Revoy (peppercarrot.com), CC BY 4.0 |
+| `wallpaper_18.webp` | **Anime** | 星光魔药工坊 (Pepper & Carrot Ink Run) | David Revoy | CC BY 4.0 | Yes (1440x3120 crop, WebP) | CC BY 4.0 | Artwork by David Revoy (peppercarrot.com), CC BY 4.0 |
+| `wallpaper_19.webp` | **Landscape** | 韦伯船底座星云宇宙悬崖 (JWST Cosmic Cliffs) | NASA, ESA, CSA, STScI | Public Domain (U.S. Gov work) | Yes (1440x3120 crop, WebP) | Public Domain / Attribution Required | Image credit: NASA, ESA, CSA, and STScI |
+| `wallpaper_20.webp` | **Landscape** | 韦伯创生之柱 (JWST Pillars of Creation) | NASA, ESA, CSA, STScI; J. DePasquale, A. Koekemoer, A. Pagan | Public Domain (U.S. Gov work) | Yes (1440x3120 crop, WebP) | Public Domain / Attribution Required | Image credit: NASA, ESA, CSA, STScI; J. DePasquale et al. |
+| `wallpaper_21.webp` | **Landscape** | 韦伯剑鱼座30蜘蛛星云 (JWST Tarantula Nebula) | NASA, ESA, CSA, STScI, Webb ERO Team | Public Domain (U.S. Gov work) | Yes (1440x3120 crop, WebP) | Public Domain / Attribution Required | Image credit: NASA, ESA, CSA, STScI, Webb ERO Production Team |
+| `wallpaper_22.webp` | **Landscape** | 极光与英仙座流星雨 (Aurora and Perseids) | Stephan Sprinz | CC BY 4.0 | Yes (1440x3120 crop, WebP) | CC BY 4.0 | Photo by Stephan Sprinz, CC BY 4.0 |
+| `wallpaper_23.webp` | **Landscape** | 马特洪峰与湖中银河倒影 (Matterhorn Milky Way Stellisee) | Giles Laurent | CC BY-SA 4.0 | Yes (1440x3120 crop, WebP) | CC BY-SA 4.0 | Photo by Giles Laurent, CC BY-SA 4.0 |
+| `wallpaper_24.webp` | **Landscape** | 索苏斯盐沼45号沙丘日出 (Sossusvlei Dune 45) | Giles Laurent | CC BY-SA 4.0 | Yes (1440x3120 crop, WebP) | CC BY-SA 4.0 | Photo by Giles Laurent, CC BY-SA 4.0 |
+| `wallpaper_25.webp` | **Landscape** | 蒂卡波湖好牧羊人教堂银河 (Tekapo Milky Way) | Fraser Gunn / B. Tafreshi (IAU / ESO) | CC BY 4.0 | Yes (1440x3120 crop, WebP) | CC BY 4.0 | Photo by Fraser Gunn / B. Tafreshi, courtesy IAU / ESO, CC BY 4.0 |
+| `wallpaper_26.webp` | **Landscape** | 东京塔蓝调时刻天际线 (Tokyo Tower Blue Hour) | David Kernan | CC BY 4.0 | Yes (1440x3120 crop, WebP) | CC BY 4.0 | Photo by David Kernan, CC BY 4.0 |
+| `wallpaper_27.webp` | **Landscape** | 加州大苏尔比克斯比大桥 (Bixby Creek Bridge) | David Iliff (Diliff) | CC BY-SA 3.0 | Yes (1440x3120 crop, WebP) | CC BY-SA 3.0 | Photo by David Iliff, CC BY-SA 3.0 |
 
-### `wallpaper_01` - Cyberpunk White Wolf Guardian / 赛博白狼卫士
-- **Category**: Kemono
-- **Creator / Contributor**: Avium Design Team (Original AI Synthesis)
-- **License**: CC0 1.0 Universal (Public Domain)
-- **Original Source URL**: https://github.com/ColoMovo-Labs/android_device_oneplus_enchilada
-- **Aesthetic Composition**: AMOLED deep black night sky, neon blue cyber blade, subject in lower third, clean clock space.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 341858 bytes), 360x780 WebP (Preview: 37796 bytes)
+---
 
-### `wallpaper_02` - Fox Spirit under Starry Lanterns / 灯火狐仙
-- **Category**: Kemono
-- **Creator / Contributor**: Avium Design Team (Original AI Synthesis)
-- **License**: CC0 1.0 Universal (Public Domain)
-- **Original Source URL**: https://github.com/ColoMovo-Labs/android_device_oneplus_enchilada
-- **Aesthetic Composition**: Deep dark starry sky, warm paper lanterns on bridge, traditional yukata fox spirit.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 272024 bytes), 360x780 WebP (Preview: 31260 bytes)
+## 2. Detailed Upstream Provenance & Terms of Use
 
-### `wallpaper_03` - Snow Leopard Alpine Ranger / 雪豹巡山员
-- **Category**: Kemono
-- **Creator / Contributor**: Avium Design Team (Original AI Synthesis)
-- **License**: CC0 1.0 Universal (Public Domain)
-- **Original Source URL**: https://github.com/ColoMovo-Labs/android_device_oneplus_enchilada
-- **Aesthetic Composition**: Misty sea of clouds, crescent moon, snow peaks, ranger resting on cliff.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 226342 bytes), 360x780 WebP (Preview: 28990 bytes)
+### Kemono Collection (`wallpaper_01` – `wallpaper_09`)
 
-### `wallpaper_04` - Kiki Cyber Sky / 赛博松鼠飞跃天际
-- **Category**: Kemono
-- **Creator / Contributor**: Tyson Tan
-- **License**: CC BY-SA 4.0
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3AKiki%20the%20Cyber%20Squirrel%20mascot%20of%20Krita%20version%205.3%20splash.png
-- **Aesthetic Composition**: Official Krita 5.3 mascot splash painting, futuristic robotic squirrel girl soaring.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 218696 bytes), 360x780 WebP (Preview: 30132 bytes)
+#### `wallpaper_01.webp` – 赛博白狼卫士 (Cyberpunk White Wolf Guardian)
+- **Title**: Cyberpunk White Wolf Guardian
+- **Author**: ColoMovo-Labs / Antigravity Design
+- **Original Source URL**: [ColoMovo-Labs/android_device_oneplus_enchilada](https://github.com/ColoMovo-Labs/android_device_oneplus_enchilada)
+- **Original License**: CC0 1.0 Universal Public Domain Dedication
+- **Whether Cropped / Modified**: Yes (AI output rendered at 9:16 aspect ratio, master-cropped and scaled to 1440 × 3120 with Lanczos resampling, WebP quality 88).
+- **Derivative License**: CC0 1.0 Universal
+- **Required Attribution**: Attribution appreciated: "AviumUI Design Team". No restrictive terms.
 
-### `wallpaper_05` - Kiki Cyber Gear / 赛博机甲觉醒
-- **Category**: Kemono
-- **Creator / Contributor**: Tyson Tan
-- **License**: CC BY-SA 4.0
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3AKiki%20the%20Cyber%20Squirrel%20mascot%20of%20Krita%20version%205.2%20splash.png
-- **Aesthetic Composition**: Official Krita 5.2 mascot splash art with glowing neon circuits.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 135012 bytes), 360x780 WebP (Preview: 23802 bytes)
+#### `wallpaper_02.webp` – 灯火狐仙 (Fox Spirit under Starry Lanterns)
+- **Title**: Fox Spirit under Starry Lanterns
+- **Author**: ColoMovo-Labs / Antigravity Design
+- **Original Source URL**: [ColoMovo-Labs/android_device_oneplus_enchilada](https://github.com/ColoMovo-Labs/android_device_oneplus_enchilada)
+- **Original License**: CC0 1.0 Universal Public Domain Dedication
+- **Whether Cropped / Modified**: Yes (master-cropped to 1440 × 3120, WebP encoded).
+- **Derivative License**: CC0 1.0 Universal
+- **Required Attribution**: Attribution appreciated: "AviumUI Design Team".
 
-### `wallpaper_06` - Owl Princess / 梦境猫头鹰公主
-- **Category**: Kemono
-- **Creator / Contributor**: David Revoy
-- **License**: CC BY-SA 4.0
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3A2012-09-19%20Owl-princess%20by-David-Revoy.jpg
-- **Aesthetic Composition**: Surreal anthropomorphic owl maiden in twilight forest, vertical composition.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 451312 bytes), 360x780 WebP (Preview: 41094 bytes)
+#### `wallpaper_03.webp` – 雪豹巡山员 (Snow Leopard Alpine Ranger)
+- **Title**: Snow Leopard Alpine Ranger
+- **Author**: ColoMovo-Labs / Antigravity Design
+- **Original Source URL**: [ColoMovo-Labs/android_device_oneplus_enchilada](https://github.com/ColoMovo-Labs/android_device_oneplus_enchilada)
+- **Original License**: CC0 1.0 Universal Public Domain Dedication
+- **Whether Cropped / Modified**: Yes (master-cropped to 1440 × 3120, WebP encoded).
+- **Derivative License**: CC0 1.0 Universal
+- **Required Attribution**: Attribution appreciated: "AviumUI Design Team".
 
-### `wallpaper_07` - Young Dragon and Bird / 幼龙与灵鸟
-- **Category**: Kemono
-- **Creator / Contributor**: David Revoy
-- **License**: CC BY 4.0
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3A2020-09-22%20Young-dragon-and-bird%20by-David-Revoy.jpg
-- **Aesthetic Composition**: Fantasy creature on mossy branch, gentle natural tones.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 202776 bytes), 360x780 WebP (Preview: 19336 bytes)
+#### `wallpaper_04.webp` – 赛博松鼠飞跃天际 (Kiki the Cyber Squirrel - Krita 5.3 Splash)
+- **Title**: Kiki the Cyber Squirrel mascot of Krita version 5.3 splash
+- **Author**: Tyson Tan (licensed to Krita Foundation)
+- **Original Source URL**: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kiki_the_Cyber_Squirrel_mascot_of_Krita_version_5.3_splash.png) (Upstream master: `https://krita.org`)
+- **Original License**: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from original 10000 × 5000 image, WebP encoded).
+- **Derivative License**: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+- **Required Attribution**: "Kiki the Cyber Squirrel mascot by Tyson Tan (https://krita.org), licensed under CC BY-SA 4.0. Derivative work cropped for AviumUI under CC BY-SA 4.0."
 
-### `wallpaper_08` - Peacock Dragon by the Shore / 孔雀幻龙
-- **Category**: Kemono
-- **Creator / Contributor**: David Revoy
-- **License**: CC BY 4.0
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3A2013-04-28%20peacock-dragon%20by-David-Revoy.jpg
-- **Aesthetic Composition**: Majestic iridescent peacock dragon resting beside misty lake.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 1214832 bytes), 360x780 WebP (Preview: 55408 bytes)
+#### `wallpaper_05.webp` – 赛博机甲觉醒 (Kiki the Cyber Squirrel - Krita 5.2 Splash)
+- **Title**: Kiki the Cyber Squirrel mascot of Krita version 5.2 splash
+- **Author**: Tyson Tan (licensed to Krita Foundation)
+- **Original Source URL**: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kiki_the_Cyber_Squirrel_mascot_of_Krita_version_5.2_splash.png) (Upstream master: `https://krita.org`)
+- **Original License**: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 3840 × 2160 source, WebP encoded).
+- **Derivative License**: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+- **Required Attribution**: "Kiki the Cyber Squirrel mascot by Tyson Tan (https://krita.org), licensed under CC BY-SA 4.0. Derivative work cropped for AviumUI under CC BY-SA 4.0."
 
-### `wallpaper_09` - Colonel Rabbit Winter Scout / 兔上校冬日巡哨
-- **Category**: Kemono
-- **Creator / Contributor**: David Revoy
-- **License**: CC BY 4.0
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3A2021-12-25%20Colonel-Rabbit%20by-David-Revoy.jpg
-- **Aesthetic Composition**: Steampunk rabbit commander with greatcoat in snowfall.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 347474 bytes), 360x780 WebP (Preview: 21494 bytes)
+#### `wallpaper_06.webp` – 梦境猫头鹰公主 (Owl Princess)
+- **Title**: Owl Princess
+- **Author**: David Revoy
+- **Original Source URL**: [David Revoy Official Archive](https://www.peppercarrot.com/en/viewer/misc__2012-09-19_Owl-princess_by-David-Revoy.html) (Wikimedia: [File:2012-09-19 Owl-princess](https://commons.wikimedia.org/wiki/File:2012-09-19_Owl-princess_by-David-Revoy.jpg))
+- **Original License**: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 2500 × 3452 master, WebP encoded).
+- **Derivative License**: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+- **Required Attribution**: "Artwork by David Revoy (https://www.peppercarrot.com), licensed under CC BY-SA 4.0. Derivative work cropped for AviumUI under CC BY-SA 4.0."
 
-### `wallpaper_10` - Lofi Cyberpunk Night / 赛博居室微光夜景
-- **Category**: Anime
-- **Creator / Contributor**: David Revoy
-- **License**: CC BY 4.0
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3A2021-09-29%20Lofi%20Cyberpunk%20by%20David-Revoy.jpg
-- **Aesthetic Composition**: Warm lofi room, rain on glass, dark futuristic city skyline bokeh.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 462198 bytes), 360x780 WebP (Preview: 28362 bytes)
+#### `wallpaper_07.webp` – 幼龙与灵鸟 (Young Dragon and Bird)
+- **Title**: Young Dragon and Bird
+- **Author**: David Revoy
+- **Original Source URL**: [David Revoy Official Archive](https://www.peppercarrot.com/fr/artworks/misc.html) (Wikimedia: [File:2020-09-22 Young-dragon-and-bird](https://commons.wikimedia.org/wiki/File:2020-09-22_Young-dragon-and-bird_by-David-Revoy.jpg))
+- **Original License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 2868 × 2097 master, WebP encoded).
+- **Derivative License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Required Attribution**: "Artwork by David Revoy (https://www.peppercarrot.com), licensed under CC BY 4.0."
 
-### `wallpaper_11` - Floating Islands Twilight / 浮空秘岛薄暮
-- **Category**: Anime
-- **Creator / Contributor**: David Revoy
-- **License**: CC BY 4.0
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3A2007-01-30%20Fantasy-Landscape%20by-David-Revoy.jpg
-- **Aesthetic Composition**: Classic anime fantasy floating islands bathed in purple dusk.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 318720 bytes), 360x780 WebP (Preview: 37022 bytes)
+#### `wallpaper_08.webp` – 孔雀幻龙 (Peacock Dragon)
+- **Title**: Peacock Dragon
+- **Author**: David Revoy
+- **Original Source URL**: [David Revoy Official Archive](https://www.peppercarrot.com/en/viewer/misc__2013-04-28_peacock-dragon_by-David-Revoy.html) (Wikimedia: [File:2013-04-28 peacock-dragon](https://commons.wikimedia.org/wiki/File:2013-04-28_peacock-dragon_by-David-Revoy.jpg))
+- **Original License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 5760 × 3150 master, WebP encoded).
+- **Derivative License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Required Attribution**: "Artwork by David Revoy (https://www.peppercarrot.com), licensed under CC BY 4.0."
 
-### `wallpaper_12` - Tidal Island at Low Tide / 退潮幻岛
-- **Category**: Anime
-- **Creator / Contributor**: David Revoy
-- **License**: CC BY 4.0
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3A2021-02-15%20An-islands-you-can-visit-at-low-tide%20by-David-Revoy.jpg
-- **Aesthetic Composition**: Solitary path winding through ocean shallows toward mystical island.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 616982 bytes), 360x780 WebP (Preview: 33356 bytes)
+#### `wallpaper_09.webp` – 兔上校冬日巡哨 (Colonel Rabbit)
+- **Title**: Colonel Rabbit
+- **Author**: David Revoy
+- **Original Source URL**: [David Revoy Official Archive](https://www.peppercarrot.com/fr/artworks/misc.html) (Wikimedia: [File:2021-12-25 Colonel-Rabbit](https://commons.wikimedia.org/wiki/File:2021-12-25_Colonel-Rabbit_by-David-Revoy.jpg))
+- **Original License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 3028 × 2896 master, WebP encoded).
+- **Derivative License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Required Attribution**: "Artwork by David Revoy (https://www.peppercarrot.com), licensed under CC BY 4.0."
 
-### `wallpaper_13` - Sintel Dragon Mountain Dawn / 破晓龙山
-- **Category**: Anime
-- **Creator / Contributor**: David Revoy / Blender Foundation
-- **License**: CC BY 4.0
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3A2020-10-01%20Sintel-10-years-Bday%20by-David-Revoy.jpg
-- **Aesthetic Composition**: Blender Sintel celebratory painting, golden sunrise over towering cliffs.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 256444 bytes), 360x780 WebP (Preview: 24056 bytes)
+---
 
-### `wallpaper_14` - Kiki Cyber City Panorama / 赛博穹顶都市
-- **Category**: Anime
-- **Creator / Contributor**: Tyson Tan
-- **License**: CC BY-SA 4.0
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3AKiki%20the%20Cyber%20Squirrel%20mascot%20of%20Krita%20version%202.9%20splash%20final.webp
-- **Aesthetic Composition**: Krita 2.9 ultra-wide cyber cityscape, dark AMOLED street level.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 279602 bytes), 360x780 WebP (Preview: 37796 bytes)
+### Anime Collection (`wallpaper_10` – `wallpaper_18`)
 
-### `wallpaper_15` - Kiki Cosmic Voyage / 星航空间站观测窗
-- **Category**: Anime
-- **Creator / Contributor**: Tyson Tan
-- **License**: CC BY-SA 4.0
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3AKiki%20the%20Cyber%20Squirrel%20mascot%20of%20Krita%20version%205.0%20splash.png
-- **Aesthetic Composition**: Orbital space station vista overlooking planet curvature.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 262784 bytes), 360x780 WebP (Preview: 32830 bytes)
+#### `wallpaper_10.webp` – 赛博居室微光夜景 (Lofi Cyberpunk Night)
+- **Title**: Lofi Cyberpunk Night
+- **Author**: David Revoy
+- **Original Source URL**: [David Revoy Official Archive](https://www.peppercarrot.com/fr/artworks/misc.html) (Wikimedia: [File:2021-09-29 Lofi Cyberpunk](https://commons.wikimedia.org/wiki/File:2021-09-29_Lofi_Cyberpunk_by_David-Revoy.jpg))
+- **Original License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 2431 × 1930 master, WebP encoded).
+- **Derivative License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Required Attribution**: "Artwork by David Revoy (https://www.peppercarrot.com), licensed under CC BY 4.0."
 
-### `wallpaper_16` - Spring Mountain Descent / 春之圣域云海
-- **Category**: Anime
-- **Creator / Contributor**: Andy Goralczyk / Blender Foundation
-- **License**: CC BY-SA 4.0
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3ASpringOpenMovie-desend.jpg
-- **Aesthetic Composition**: Blender Open Movie Spring scene, majestic fantasy peaks emerging from clouds.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 98528 bytes), 360x780 WebP (Preview: 12994 bytes)
+#### `wallpaper_11.webp` – 浮空秘岛薄暮 (Fantasy Floating Islands at Sunset)
+- **Title**: Fantasy Floating Islands at Sunset
+- **Author**: David Revoy
+- **Original Source URL**: [David Revoy Official Archive](https://www.peppercarrot.com/en/viewer/misc__2007-01-30_Fantasy-Landscape_by-David-Revoy.html) (Wikimedia: [File:2007-01-30 Fantasy-Landscape](https://commons.wikimedia.org/wiki/File:2007-01-30_Fantasy-Landscape_by-David-Revoy.jpg))
+- **Original License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 3948 × 2000 master, WebP encoded).
+- **Derivative License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Required Attribution**: "Artwork by David Revoy (https://www.peppercarrot.com), licensed under CC BY 4.0."
 
-### `wallpaper_17` - Phanda Misty Forest / 迷雾竹海仙境
-- **Category**: Anime
-- **Creator / Contributor**: David Revoy
-- **License**: CC BY 4.0
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3A2016-06-08%20concept-art%20e17%20Phanda%20livestreaming%20by-David-Revoy.jpg
-- **Aesthetic Composition**: Misty bamboo and pine sanctuary with temple lanterns.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 247618 bytes), 360x780 WebP (Preview: 19082 bytes)
+#### `wallpaper_12.webp` – 退潮幻岛 (Tidal Island at Low Tide)
+- **Title**: Tidal Island at Low Tide
+- **Author**: David Revoy
+- **Original Source URL**: [David Revoy Official Archive](https://www.peppercarrot.com/fr/artworks/misc.html) (Wikimedia: [File:2021-02-15 An-islands-you-can-visit-at-low-tide](https://commons.wikimedia.org/wiki/File:2021-02-15_An-islands-you-can-visit-at-low-tide_by-David-Revoy.jpg))
+- **Original License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 4098 × 1998 master, WebP encoded).
+- **Derivative License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Required Attribution**: "Artwork by David Revoy (https://www.peppercarrot.com), licensed under CC BY 4.0."
 
-### `wallpaper_18` - Pepper & Carrot Starlight Laboratory / 星光魔药工坊
-- **Category**: Anime
-- **Creator / Contributor**: David Revoy
-- **License**: CC BY 4.0
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3ADavid%20Revoy%20-%20Pepper%26Carrot%20-%20October%20Ink%20Artworks%202017%20%28week%202%29%20-%20Run.jpg
-- **Aesthetic Composition**: Detailed ink fantasy art from Pepper&Carrot, atmospheric dark shading.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 910748 bytes), 360x780 WebP (Preview: 43034 bytes)
+#### `wallpaper_13.webp` – 破晓龙山 (Sintel Dragon Mountain Dawn)
+- **Title**: Sintel Dragon Mountain Dawn (Sintel 10th Anniversary)
+- **Author**: David Revoy (for Blender Foundation)
+- **Original Source URL**: [David Revoy Official Archive](https://www.peppercarrot.com/fr/artworks/misc.html) (Wikimedia: [File:2020-10-01 Sintel-10-years-Bday](https://commons.wikimedia.org/wiki/File:2020-10-01_Sintel-10-years-Bday_by-David-Revoy.jpg))
+- **Original License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 3480 × 1949 master, WebP encoded).
+- **Derivative License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Required Attribution**: "Artwork by David Revoy / Blender Foundation (https://www.peppercarrot.com), licensed under CC BY 4.0."
 
-### `wallpaper_19` - JWST Cosmic Cliffs in Carina Nebula / 韦伯船底座星云宇宙悬崖
-- **Category**: Landscape
-- **Creator / Contributor**: NASA, ESA, CSA, and STScI
-- **License**: Public domain
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3ANASA%E2%80%99s%20Webb%20Reveals%20Cosmic%20Cliffs%2C%20Glittering%20Landscape%20of%20Star%20Birth.jpg
-- **Aesthetic Composition**: Infrared star birth landscape, AMOLED deep void above glowing stellar ridges.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 449664 bytes), 360x780 WebP (Preview: 45910 bytes)
+#### `wallpaper_14.webp` – 赛博穹顶都市 (Kiki Cyber City Panorama)
+- **Title**: Kiki Cyber City Panorama (Krita 2.9 Splash Final)
+- **Author**: Tyson Tan (for Krita Foundation)
+- **Original Source URL**: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kiki_the_Cyber_Squirrel_mascot_of_Krita_version_2.9_splash_final.webp) (Upstream archive: `https://cdn.kde.org/krita/marketing/kiki/`)
+- **Original License**: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 12404 × 2881 master, WebP encoded).
+- **Derivative License**: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+- **Required Attribution**: "Kiki the Cyber Squirrel mascot by Tyson Tan (https://krita.org), licensed under CC BY-SA 4.0. Derivative work cropped for AviumUI under CC BY-SA 4.0."
 
-### `wallpaper_20` - JWST Pillars of Creation / 韦伯创生之柱
-- **Category**: Landscape
-- **Creator / Contributor**: NASA, ESA, CSA, and STScI
-- **License**: Public domain
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3APillars%20of%20Creation%20%28NIRCam%20Image%29.jpg
-- **Aesthetic Composition**: Towering columns of interstellar gas and dust against dark cosmos.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 1266256 bytes), 360x780 WebP (Preview: 73686 bytes)
+#### `wallpaper_15.webp` – 星航空间站观测窗 (Kiki Cosmic Space Station)
+- **Title**: Kiki Cosmic Space Station (Krita 5.0 Splash)
+- **Author**: Tyson Tan (for Krita Foundation)
+- **Original Source URL**: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kiki_the_Cyber_Squirrel_mascot_of_Krita_version_5.0_splash.png) (Upstream archive: `https://cdn.kde.org/krita/marketing/kiki/`)
+- **Original License**: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 10000 × 5000 master, WebP encoded).
+- **Derivative License**: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+- **Required Attribution**: "Kiki the Cyber Squirrel mascot by Tyson Tan (https://krita.org), licensed under CC BY-SA 4.0. Derivative work cropped for AviumUI under CC BY-SA 4.0."
 
-### `wallpaper_21` - JWST Tarantula Nebula 30 Doradus / 剑鱼座30蜘蛛星云
-- **Category**: Landscape
-- **Creator / Contributor**: NASA, ESA, CSA, STScI
-- **License**: Public domain
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3ATarantula%20Nebula%20by%20JWST.jpg
-- **Aesthetic Composition**: Vibrant cluster of stellar nursery filaments, dark space background.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 770364 bytes), 360x780 WebP (Preview: 52822 bytes)
+#### `wallpaper_16.webp` – 春之圣域云海 (Spring Mountain Descent)
+- **Title**: Spring Mountain Descent
+- **Author**: Blender Institute / Andy Goralczyk
+- **Original Source URL**: [Blender Cloud Spring Project](https://cloud.blender.org/films/spring) (Wikimedia: [File:SpringOpenMovie-desend.jpg](https://commons.wikimedia.org/wiki/File:SpringOpenMovie-desend.jpg))
+- **Original License**: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 1920 × 835 master, WebP encoded).
+- **Derivative License**: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+- **Required Attribution**: "Blender Open Movie short film 'Spring' by Blender Foundation (https://www.blender.org), licensed under CC BY-SA 4.0. Derivative work cropped for AviumUI under CC BY-SA 4.0."
 
-### `wallpaper_22` - Aurora Borealis and Perseid Meteor / 极光与英仙座流星雨
-- **Category**: Landscape
-- **Creator / Contributor**: Stephan Sprinz
-- **License**: CC BY 4.0
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3AAurora%20and%20perseids.jpg
-- **Aesthetic Composition**: Curtain of green aurora and shooting star over quiet Bavarian waters.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 875614 bytes), 360x780 WebP (Preview: 28222 bytes)
+#### `wallpaper_17.webp` – 迷雾竹海仙境 (Phanda Misty Bamboo Grove)
+- **Title**: Phanda Misty Bamboo Grove
+- **Author**: David Revoy
+- **Original Source URL**: [David Revoy Official Archive](https://www.peppercarrot.com/fr/artworks/misc.html) (Wikimedia: [File:2016-06-08 concept-art e17 Phanda](https://commons.wikimedia.org/wiki/File:2016-06-08_concept-art_e17_Phanda_livestreaming_by-David-Revoy.jpg))
+- **Original License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 3195 × 2085 master, WebP encoded).
+- **Derivative License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Required Attribution**: "Artwork by David Revoy (https://www.peppercarrot.com), licensed under CC BY 4.0."
 
-### `wallpaper_23` - Matterhorn Sunset Glow / 马特洪峰夕照金顶
-- **Category**: Landscape
-- **Creator / Contributor**: Unsplash / Wikimedia Commons contributor
-- **License**: CC0 1.0 Universal
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3AMatterhorn%20sunset%202016%20%28Unsplash%29.jpg
-- **Aesthetic Composition**: Iconic Alpine pyramid peak illuminated by golden hour sun.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 402702 bytes), 360x780 WebP (Preview: 22962 bytes)
+#### `wallpaper_18.webp` – 星光魔药工坊 (Pepper & Carrot Starlight Laboratory)
+- **Title**: Pepper & Carrot Starlight Laboratory (October Ink Artworks - Run)
+- **Author**: David Revoy
+- **Original Source URL**: [David Revoy Sketchbook Archive](https://www.peppercarrot.com/en/viewer/sketchbook-src__2017-10-11_inktober2017_run_by-David-Revoy.html) (Wikimedia: [File:David Revoy - Pepper&Carrot - Run](https://commons.wikimedia.org/wiki/File:David_Revoy_-_Pepper%26Carrot_-_October_Ink_Artworks_2017_(week_2)_-_Run.jpg))
+- **Original License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 4112 × 3394 master, WebP encoded).
+- **Derivative License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Required Attribution**: "Artwork by David Revoy (https://www.peppercarrot.com), licensed under CC BY 4.0."
 
-### `wallpaper_24` - Sossusvlei Dune 45 Sunrise / 索苏斯盐沼红沙漠沙丘
-- **Category**: Landscape
-- **Creator / Contributor**: Giles Laurent
-- **License**: CC BY-SA 4.0
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3A006%20Dune%2045%20in%20Sossusvlei%20at%20sunrise%20Photo%20by%20Giles%20Laurent.jpg
-- **Aesthetic Composition**: Sharp sinuous ridge of ancient terracotta sand dunes against pure sky.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 364560 bytes), 360x780 WebP (Preview: 20880 bytes)
+---
 
-### `wallpaper_25` - Tekapo Milky Way over Good Shepherd / 蒂卡波湖好牧羊人教堂银河
-- **Category**: Landscape
-- **Creator / Contributor**: ESO / B. Tafreshi
-- **License**: CC BY 4.0
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3AChurch%20of%20the%20Good%20Shepherd%20on%20the%20shores%20of%20Lake%20Tekapo%20%28ann19065a%29.jpg
-- **Aesthetic Composition**: Dark sky reserve, galactic core arching over stone chapel.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 813458 bytes), 360x780 WebP (Preview: 54368 bytes)
+### Landscape & Deep Space Collection (`wallpaper_19` – `wallpaper_27`)
 
-### `wallpaper_26` - Tokyo Tower Blue Hour Skyline / 东京塔蓝调时刻天际线
-- **Category**: Landscape
-- **Creator / Contributor**: Wikimedia Commons Contributor
-- **License**: CC BY 4.0
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3ATokyo%20Tower%2C%20Minato%20City.jpg
-- **Aesthetic Composition**: Vibrant metropolis lights in blue hour, Tokyo Tower glowing amber.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 658714 bytes), 360x780 WebP (Preview: 39386 bytes)
+#### `wallpaper_19.webp` – 韦伯船底座星云宇宙悬崖 (JWST Cosmic Cliffs in the Carina Nebula)
+- **Title**: "Cosmic Cliffs" in the Carina Nebula (NIRCam)
+- **Author**: NASA, ESA, CSA, and STScI
+- **Original Source URL**: [STScI News Release STScI-2022-031](https://webbtelescope.org/contents/media/images/2022/031/01G77PKB8NKR7S8Z6HBXMYATGJ) (Wikimedia: [File:NASA's Webb Reveals Cosmic Cliffs](https://commons.wikimedia.org/wiki/File:NASA%E2%80%99s_Webb_Reveals_Cosmic_Cliffs,_Glittering_Landscape_of_Star_Birth.jpg))
+- **Original License**: Public Domain in the United States (17 U.S.C. § 105), subject to mandatory agency citation requirements.
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 14575 × 8441 master, WebP encoded).
+- **Derivative License**: Public Domain / Attribution Required
+- **Required Attribution**: "Image credit: NASA, ESA, CSA, and STScI (https://webbtelescope.org)."
 
-### `wallpaper_27` - Bixby Creek Bridge Pacific Sunset / 加州大苏尔比克斯比大桥日落
-- **Category**: Landscape
-- **Creator / Contributor**: Wikimedia Commons Contributor
-- **License**: CC BY 3.0
-- **Original Source URL**: https://commons.wikimedia.org/wiki/File%3ASunset%20At%20The%20Bixby%20%2844143484%29.jpeg
-- **Aesthetic Composition**: Dramatic coastal sea cliff bridge arching into Pacific ocean twilight.
-- **Mastering Specifications**: 1440x3120 WebP (Full: 711794 bytes), 360x780 WebP (Preview: 71534 bytes)
+#### `wallpaper_20.webp` – 韦伯创生之柱 (JWST Pillars of Creation - NIRCam)
+- **Title**: Pillars of Creation (NIRCam Image)
+- **Author**: Science: NASA, ESA, CSA, STScI; Image Processing: Joseph DePasquale (STScI), Anton M. Koekemoer (STScI), Alyssa Pagan (STScI)
+- **Original Source URL**: [STScI News Release STScI-2022-052](https://webbtelescope.org/contents/media/images/2022/052/01GF423GBQSK6ANC89NTFJW8VM) (Wikimedia: [File:Pillars of Creation (NIRCam Image).jpg](https://commons.wikimedia.org/wiki/File:Pillars_of_Creation_(NIRCam_Image).jpg))
+- **Original License**: Public Domain in the United States (17 U.S.C. § 105), subject to mandatory agency citation requirements.
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 8423 × 14589 master, WebP encoded).
+- **Derivative License**: Public Domain / Attribution Required
+- **Required Attribution**: "Image credit: NASA, ESA, CSA, STScI; J. DePasquale, A. Koekemoer, A. Pagan (https://webbtelescope.org)."
 
+#### `wallpaper_21.webp` – 韦伯剑鱼座30蜘蛛星云 (JWST Tarantula Nebula 30 Doradus)
+- **Title**: Tarantula Nebula by JWST (NIRCam)
+- **Author**: NASA, ESA, CSA, STScI, Webb ERO Production Team
+- **Original Source URL**: [STScI News Release STScI-2022-041](https://webbtelescope.org/contents/media/images/2022/041/01GA76MYFN0FMKNRHGCAGGYCVQ) (Wikimedia: [File:Tarantula Nebula by JWST.jpg](https://commons.wikimedia.org/wiki/File:Tarantula_Nebula_by_JWST.jpg))
+- **Original License**: Public Domain in the United States (17 U.S.C. § 105), subject to mandatory agency citation requirements.
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 14557 × 8418 master, WebP encoded).
+- **Derivative License**: Public Domain / Attribution Required
+- **Required Attribution**: "Image credit: NASA, ESA, CSA, STScI, Webb ERO Production Team (https://webbtelescope.org)."
+
+#### `wallpaper_22.webp` – 极光与英仙座流星雨 (Aurora Borealis and Perseid Meteor)
+- **Title**: Aurora and perseids
+- **Author**: Stephan Sprinz
+- **Original Source URL**: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aurora_and_perseids.jpg)
+- **Original License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 5978 × 3977 master, WebP encoded).
+- **Derivative License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Required Attribution**: "Photo by Stephan Sprinz, licensed under CC BY 4.0."
+
+#### `wallpaper_23.webp` – 马特洪峰与湖中银河倒影 (Milky Way Aligned with the Matterhorn Reflecting in Stellisee)
+- **Title**: Milky way aligned with the Matterhorn reflecting in Stellisee
+- **Author**: Giles Laurent
+- **Original Source URL**: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:008_Milky_way_aligned_with_the_Matterhorn_reflecting_in_Stellisee_Photo_by_Giles_Laurent.jpg)
+- **Original License**: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 6946 × 13606 master, WebP encoded).
+- **Derivative License**: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+- **Required Attribution**: "Photo by Giles Laurent, licensed under CC BY-SA 4.0. Derivative work cropped for AviumUI under CC BY-SA 4.0."
+
+#### `wallpaper_24.webp` – 索苏斯盐沼45号沙丘日出 (Dune 45 in Sossusvlei at Sunrise)
+- **Title**: Dune 45 in Sossusvlei at sunrise
+- **Author**: Giles Laurent
+- **Original Source URL**: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:006_Dune_45_in_Sossusvlei_at_sunrise_Photo_by_Giles_Laurent.jpg)
+- **Original License**: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 5385 × 3590 master, WebP encoded).
+- **Derivative License**: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+- **Required Attribution**: "Photo by Giles Laurent, licensed under CC BY-SA 4.0. Derivative work cropped for AviumUI under CC BY-SA 4.0."
+
+#### `wallpaper_25.webp` – 蒂卡波湖好牧羊人教堂银河 (Church of the Good Shepherd on the shores of Lake Tekapo)
+- **Title**: Church of the Good Shepherd on the shores of Lake Tekapo
+- **Author**: Fraser Gunn / Babak Tafreshi (European Southern Observatory / IAU)
+- **Original Source URL**: [ESO Announcement ann19065](https://www.eso.org/public/announcements/ann19065/) (Wikimedia: [File:Church of the Good Shepherd ann19065a](https://commons.wikimedia.org/wiki/File:Church_of_the_Good_Shepherd_on_the_shores_of_Lake_Tekapo_(ann19065a).jpg))
+- **Original License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 2829 × 2000 master, WebP encoded).
+- **Derivative License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Required Attribution**: "Photo by Fraser Gunn / B. Tafreshi, courtesy of International Astronomical Union (IAU) / European Southern Observatory (ESO, https://www.eso.org), licensed under CC BY 4.0."
+
+#### `wallpaper_26.webp` – 东京塔蓝调时刻天际线 (Tokyo Tower Blue Hour Skyline, Minato City)
+- **Title**: Tokyo Tower, Minato City
+- **Author**: David Kernan
+- **Original Source URL**: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Tower,_Minato_City.jpg)
+- **Original License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 5991 × 3370 master, WebP encoded).
+- **Derivative License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Required Attribution**: "Photo by David Kernan, licensed under CC BY 4.0."
+
+#### `wallpaper_27.webp` – 加州大苏尔比克斯比大桥日落 (Bixby Creek Bridge, California, USA)
+- **Title**: Bixby Creek Bridge, California, USA - May 2013
+- **Author**: David Iliff (Diliff)
+- **Original Source URL**: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bixby_Creek_Bridge,_California,_USA_-_May_2013.jpg)
+- **Original License**: Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+- **Whether Cropped / Modified**: Yes (vertical 1440 × 3120 framing from 6488 × 3214 master, WebP encoded).
+- **Derivative License**: Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+- **Required Attribution**: "Photo by David Iliff, licensed under CC BY-SA 3.0. Derivative work cropped for AviumUI under CC BY-SA 3.0."
