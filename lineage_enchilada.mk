@@ -25,9 +25,12 @@ $(call inherit-product, device/oneplus/enchilada/device.mk)
 # AviumUI Configuration
 TARGET_FORCE_ENABLE_BLUR := true
 
-# Chinese Font & Wallpaper Customization Packages
+# Chinese Font Customization Packages
 $(call inherit-product, device/oneplus/enchilada/fonts/fonts.mk)
-$(call inherit-product, device/oneplus/enchilada/wallpapers/wallpapers.mk)
+
+# LoMoLab Customization Center
+PRODUCT_PACKAGES += \
+    LoMoLab
 
 # Official AviumUI GMS Integration
 WITH_GMS := true
