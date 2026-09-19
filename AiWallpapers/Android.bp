@@ -6,11 +6,17 @@
 android_app_import {
     name: "AiWallpapers",
     apk: "AiWallpapers.apk",
+
     presigned: true,
-    preprocessed: true,
+
     product_specific: true,
+
+    optional_uses_libs: [
+        "org.apache.http.legacy",
+    ],
+
     dex_preopt: {
         enabled: false,
     },
-    optional_uses_libs: ["org.apache.http.legacy"],
 }
+
