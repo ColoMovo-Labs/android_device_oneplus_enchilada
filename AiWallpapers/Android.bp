@@ -1,0 +1,12 @@
+//
+// Copyright (C) 2026 The AviumUI Project
+// SPDX-License-Identifier: Apache-2.0
+//
+
+android_app_import {
+    name: "AiWallpapers",
+    apk: "AiWallpapers.apk",
+    certificate: "PRESIGNED",
+    product_specific: true,
+    optional_uses_libs: ["org.apache.http.legacy"],
+}

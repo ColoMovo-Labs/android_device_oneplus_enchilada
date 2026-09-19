@@ -28,9 +28,9 @@ TARGET_FORCE_ENABLE_BLUR := true
 # Chinese Font Customization Packages
 $(call inherit-product, device/oneplus/enchilada/fonts/fonts.mk)
 
-# LoMoLab Customization Center
+# Google AiWallpapers Prebuilt
 PRODUCT_PACKAGES += \
-    LoMoLab
+    AiWallpapers
 
 # Official AviumUI GMS Integration
 WITH_GMS := true
