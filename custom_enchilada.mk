@@ -31,7 +31,8 @@ $(call inherit-product, device/oneplus/enchilada/fonts/fonts.mk)
 
 # Module Lab 2.0 (Root & Module Management Center)
 PRODUCT_PACKAGES += \
-    ModuleLab
+    ModuleLab \
+    AiWallpapers
 
 # Official GMS Integration
 WITH_GMS := true
