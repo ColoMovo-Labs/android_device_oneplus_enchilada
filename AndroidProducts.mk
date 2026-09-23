@@ -1,5 +1,6 @@
 #
 # Copyright (C) 2018-2019 The LineageOS Project
+# Copyright (C) 2026 uwuAOSP
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,4 +16,15 @@
 #
 
 PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/custom_enchilada.mk \
     $(LOCAL_DIR)/lineage_enchilada.mk
+
+COMMON_LUNCH_CHOICES := \
+    custom_enchilada-user \
+    custom_enchilada-userdebug \
+    custom_enchilada-bp4a-user \
+    custom_enchilada-bp4a-userdebug \
+    lineage_enchilada-user \
+    lineage_enchilada-userdebug \
+    lineage_enchilada-bp4a-user \
+    lineage_enchilada-bp4a-userdebug
