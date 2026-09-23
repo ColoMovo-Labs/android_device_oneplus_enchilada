@@ -32,6 +32,10 @@ $(call inherit-product, device/oneplus/enchilada/fonts/fonts.mk)
 PRODUCT_PACKAGES += \
     AiWallpapers
 
+# AviumUI Module Lab 2.0 (Root & Module Management Center)
+PRODUCT_PACKAGES += \
+    ModuleLab
+
 # Official AviumUI GMS Integration
 WITH_GMS := true
 TARGET_DOES_NOT_SUPPORT_GOOGLE_BATTERY := true
